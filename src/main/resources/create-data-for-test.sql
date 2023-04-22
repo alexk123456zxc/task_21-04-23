@@ -1,0 +1,1 @@
+insert into appstorage.currency_rates values(nextval('appstorage.curr_sq'), 'USD', '431', 'Доллар США', '123','1', '2099-01-01');

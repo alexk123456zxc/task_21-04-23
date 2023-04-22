@@ -1,0 +1,1 @@
+delete from appstorage.currency_rates where date = '2099-01-01';
